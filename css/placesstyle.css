@@ -1,9 +1,19 @@
+body{
+  background:rgb(129, 172, 135);
+}
+
 h1 {
-  color: rgb(6, 6, 80);
+  color: rgb(12, 12, 158);
   text-align: center;
+  font-family: georgia, serif;
 }
 
 h2 {
   color: rgb(12, 12, 122);
   font-family: monospace;
+}
+
+img {
+  max-width: 25%;
+  max-height: 25%;
 }
