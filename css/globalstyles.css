@@ -18,20 +18,20 @@ h2 {
 
 h3 {
   font-family: georgia, serif;
-  font-size: 10px;
+  font-size: 15px;
   color:rgb(32, 29, 18);
   font-weight: bold;
 }
 
 ul {
-  font-size: 5px;
+  font-size: 13px;
   font-weight: normal;
   font-family: helvetica, sans-serif;
   color:rgb(32, 29, 18);
 }
 
 ol {
-  font-size: 5px;
+  font-size: 13px;
   font-weight: normal;
   font-family: helvetica, sans-serif;
   color:rgb(32, 29, 18);
